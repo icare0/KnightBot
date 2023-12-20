@@ -1,1 +1,23 @@
-doc
+### Installation du système de tournoi pour le bot
+
+1. Regardez cette [vidéo explicative]() pour savoir comment récupérer le fichier JSON d'authentification.
+
+2. Rendez-vous sur le site et la console de [Google Cloud](https://console.cloud.google.com/).
+
+3. Accédez à "API et Services" puis à "Identifiants".
+
+4. Créez un projet avec le nom de votre choix.
+
+5. Créez des identifiants en sélectionnant "Clé API".
+
+6. Créez un compte de service, en renseignant l'e-mail requis.
+
+7. Attribuez-lui le rôle de propriétaire dans les paramètres.
+
+8. Accédez au compte de service, puis aux clés, et créez une nouvelle clé au format JSON.
+
+9. Renommez le fichier téléchargé en "api_key_tournament".
+
+10. Importez ce fichier dans votre répertoire de configuration.
+
+Ces étapes devraient vous permettre de configurer aisément le système de tournoi pour votre bot.
