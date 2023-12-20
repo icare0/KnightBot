@@ -1,2 +1,5 @@
 # KnightBot
-French Discord bot coded with discord.js v14 that allows tournament management, moderation, ticketing, and much more
+
+
+
+![Knight](https://github.com/icare0/KnightBot/assets/114292781/ee452047-db83-4474-8c2d-d4dbe6bc87db)
