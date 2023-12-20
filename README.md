@@ -33,18 +33,23 @@ KnighBot est un bot de gestion de tournoi, ticketing, modération, jeux, ect..  
 KnightBot offre une gamme de fonctionnalités puissantes pour répondre aux besoins variés de ton serveur Discord. Voici un aperçu de ses principales fonctionnalités :
 
 **Gestion de Tournoi**
+
 Facilite la gestion des tournois sur ton serveur. Crée, organise et supervise des tournois.
 
 **Système de Ticketing**
+
 Permet de gérer efficacement les demandes des utilisateurs grâce à un système de tickets.
 
 **Modération Avancée**
+
 Dispose de fonctionnalités de modération pour maintenir l'ordre sur ton serveur, avec des outils de modération.
 
 **Jeux et Divertissement**
+
 Propose une variété de jeux et d'activités divertissantes pour divertir tes membres.
 
 **et plein d'autres !**
+
 système de log, bienvenue, d'info sur un serveur/utilisateur, todo-list ect
 
 
