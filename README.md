@@ -7,7 +7,6 @@
 
 <h3 align=center>Bot totalement customisable fais avec <a href=https://github.com/discordjs/discord.js>discord.js</a></h3>
 
-
 <div align=center>
 
  [![Discord](https://img.shields.io/discord/1175810138410586283.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/k8t42zAYPr)
