@@ -24,7 +24,7 @@
 
 ## ❓ à propos du bot
 
-KnighBot est un bot de gestion de tournoi, ticketing, modération, jeux, ect..  opensource il à [serveur support](https://discord.gg/k8t42zAYPr) et tu peux l'ajouter a ton serveur grâce à ce lien https://discord.com/api/oauth2/authorize?client_id=1108658205015420959&permissions=8&scope=bot si tu trouve des bugs ou que tu as des idées de nouveauté à ajouter n'hésite à me le faire remonter à sur le [serveur support](https://discord.gg/k8t42zAYPr) 
+KnighBot est un bot de gestion de tournoi, ticketing, modération, jeux, ect..  opensource il à [serveur support](https://discord.gg/k8t42zAYPr) et tu peux l'ajouter a ton serveur grâce à ce lien https://discord.com/api/oauth2/authorize?client_id=1108658205015420959&permissions=8&scope=bot si tu trouve des bugs ou que tu as des idées de nouveauté à ajouter n'hésite à me le faire remonter sur le [serveur support](https://discord.gg/k8t42zAYPr) 
 
 
 
