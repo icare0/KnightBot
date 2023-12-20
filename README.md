@@ -21,7 +21,10 @@
   <a href="#credits">Credits</a>
 </p>
 
-![Knight](https://github.com/icare0/KnightBot/assets/114292781/765883b2-0bc4-4779-9371-1f5621a673b3)
+<p align="center">
+  <img src="https://github.com/icare0/KnightBot/assets/114292781/ee452047-db83-4474-8c2d-d4dbe6bc87db" width="300" height="200">
+</p>
+
 
 ## ❓ à propos du bot
 
