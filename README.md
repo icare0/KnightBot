@@ -1,97 +1,61 @@
 
 <h1 align="center">
   <br>
-  Egglord
+ # KnightBot
   <br>
 </h1>
 
-<h3 align=center>A fully customizable bot built with <a href=https://github.com/discordjs/discord.js>discord.js</a></h3>
+<h3 align=center>Bot totalement customisable <a href=https://github.com/discordjs/discord.js>discord.js</a></h3>
 
 
 <div align=center>
 
- [![Discord](https://img.shields.io/discord/658113349384667198.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/8g6zUQu)
-[![Lines of Code](https://sonarcloud.io/api/project_badges/measure?project=Spiderjockey02_Discord-Bot&metric=ncloc)](https://sonarcloud.io/dashboard?id=Spiderjockey02_Discord-Bot)
-[![CodeFactor](https://www.codefactor.io/repository/github/spiderjockey02/discord-bot/badge/master)](https://www.codefactor.io/repository/github/spiderjockey02/discord-bot/overview/master)
-![Website](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fapi.egglord.dev%2F)
-[![Crowdin](https://badges.crowdin.net/egglord-discord-bot/localized.svg)](https://crowdin.com/project/egglord-discord-bot)
+ [![Discord](https://img.shields.io/discord/486909422220607488.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/k8t42zAYPr)
 
 </div>
 
 <p align="center">
-  <a href="#about">About</a>
+  <a href="#about">à propos</a>
   •
-  <a href="#Features">Features</a>
+  <a href="#Features">ce que porpose le bot</a>
   •
-  <a href="https://github.com/Spiderjockey02/Discord-Bot/blob/master/docs/INSTALLATION.md">Installation</a>
-  •
-  <a href="#license">License</a>
+  <a href="https://github.com/icare0/KnightBot/blob/1133174ff63b3745cfbf3ea14ad95347fe3db606/doc">Installation du système de tournoi</a>
   •
   <a href="#credits">Credits</a>
 </p>
 
-## ❓ About
+## ❓ à propos du bot
 
-Egglord is an open source, fully customizable Discord bot that is constantly growing. You can invite it to your Discord server using [this](https://discord.com/oauth2/authorize?client_id=647203942903840779&permissions=485846102&scope=bot) link! Also, you can join the official [Egglord Support Server](https://discord.gg/8g6zUQu) for all questions, suggestions, and assistance! It comes packaged with a variety of commands and a multitude of settings that can be tailored to your server's specific needs.
-
-If you liked this repository, feel free to leave a star ⭐ to help promote Egglord!
-
-## ❗ Features
-
-**140+** commands and counting across **13** different categories!
-
-*   🎉  **Fun**: `advice`, `fact`, `meme`, `reminder`, `pokemon` and **6** more!
-*   🎁  **Giveaway**: `g-start`, `g-reroll`, `g-edit` and `g-delete` and **2** more!
-*   💬  **Guild**: `avatar`, `giveaway`, `server-info`, `poll`, and **6** more!
-*   👑  **Host**: `reload`, `shutdown`, `addban`, `eval` and **10** more!
-*   🖼  **Image**: `blurpify`, `changemymind`, `phcomment`, `stickbug`, `whowouldwin`, `threats`, and **10** more!
-*   💰  **Level**: `leaderboard`, `rank`!
-*   ❔  **Misc**: `about`, `help`, `status`, `uptime`!
-*   🚓  **Moderation**: `ban`, `clear`, `kick`, `warn`, `report`, `unmute` and **16** more!
-*   🎵  **Music**: `play`, `queue`, `shuffle`, `seek`, `lyrics` and **29** more!
-*   🔞  **NSFW**: Total of **18** commands!
-* **Plugins**: `reaction roles`, `settings language`, `settings logs` and **4** more!
-*   🔎  **Searcher**: `fortnite`, `weather`, `twitch`, `steam` and **3** more!
-* **Tag**: `Tag system`!
-*   ❓  **Ticket**: `t-(close | create |setup )`!
-*   **Full list** of commands: [here](https://github.com/Spiderjockey02/Discord-Bot/blob/master/docs/COMMANDS.md).
-
-Egglord also comes packed with a variety of features, such as:
-
-  * **Welcome messages** and **farewell messages**.
-  * **Extensive Logging** for 37 events.
-  * **Slash Commands**
-  * **Advanced** auto-moderation.
-  * **Audio filters** for music plugin.
-  * **Custom** playlist support.
-  * **Multi-language support**.
-  * **Giveaways**
-  * **Reaction roles**
-  * And much more! There are over **40+** settings to tweak!
+KnighBot est un bot de gestion de tournoi, ticketing, modération, jeux, ect..  opensource il à [serveur support](https://discord.gg/k8t42zAYPr) et tu peux l'ajouter a ton serveur grâce à ce lien https://discord.com/api/oauth2/authorize?client_id=1108658205015420959&permissions=8&scope=bot si tu trouve des bugs ou que tu as des idées de nouveauté à ajouter n'hésite à me le faire remonter à sur le [serveur support](https://discord.gg/k8t42zAYPr) 
 
 
-## 📝 To-Do
 
-Egglord is pretty much at the end of development now, it will only be updated for the following things:
+## ❗ ce que porpose le bot
 
-  * Bug fixes
-  * Code optimisation
-  * New discord features
-  * Suggestions I deem very good.
+KnightBot offre une gamme de fonctionnalités puissantes pour répondre aux besoins variés de ton serveur Discord. Voici un aperçu de ses principales fonctionnalités :
 
-## 🖥️ My other projects
- * [Auto poster](https://github.com/Spiderjockey02/auto-poster-and-notifications) - Allows your users to get notified when you post on another social media. (Youtube, twitch, twitter, reddit etc)
- * [erela.js-facebook](https://github.com/Spiderjockey02/erela.js-facebook) - Allows facebook videos to played with [erela.js](https://github.com/MenuDocs/erela.js) (A [lavalink](https://github.com/Freyacodes/Lavalink) client).
+**Gestion de Tournoi**
+Facilite la gestion des tournois sur ton serveur. Crée, organise et supervise des tournois personnalisés pour tes membres.
 
-## 📖 License
+**Système de Ticketing**
+Permet de gérer efficacement les requêtes des utilisateurs grâce à un système de tickets clair et organisé.
 
-Released under the [Apache License 2.0](https://github.com/Spiderjockey02/Discord-Bot/blob/master/LICENSE) license.
+**Modération Avancée**
+Dispose de fonctionnalités de modération robustes pour maintenir l'ordre sur ton serveur, avec des outils de modération automatisés et manuels.
+
+**Jeux et Divertissement**
+Propose une variété de jeux et d'activités divertissantes pour divertir tes membres et créer une communauté active et engagée.
+
+**et plein d'autres !**
+système de log, bienvenue, d'info sur un serveur/utilisateur, todo-list ect
+
+
+
+## 🖥️ mes autres projets
+je participe à quellque projet, pas forcément dans le dévellopement, je t'invite à allez voir
+>  * [DiscorAds](https://discorads.com/) - Permettre au créateur d'avoir de la publicité sur discord et permet au propriétaire de serveur discord d'étre rémunéré
 
 ## 📜 Credits
-* **[tovade](https://github.com/tovade)** - Initial Reaction Role System.
-* **[josh_0242](https://github.com/ChaosArising)** - Slash Commands & Tags System.
-* **[duncte123#1245](https://github.com/duncte123)** - [Lavalink plugin](https://github.com/DuncteBot/skybot-lavalink-plugin) (TTS, reddit, TikTok, Phub, Mixcloud etc).
-* **[topi314](https://github.com/topi314)** - [Lavalink plugin 2](https://github.com/topi314/LavaSrc) (Spotify, Apple Music, Deezer & Yandex)
-* **[thororen](https://github.com/thororen1234)** - Updated Music system to support new Lavalink v4.
-* **[Our translators](https://crowdin.com/project/egglord-discord-bot)** - Everyone over at Crowdin who helps make this bot multilingual.
-* Want to be on this list, aswell? - Check out the [Contributing page](https://github.com/Spiderjockey02/Discord-Bot/blob/master/docs/CONTRIBUTING.md).
+* **[nohaaam](https://github.com/Noaaam/discord-v14-bot-ticketSystem)** - mon système de ticket
+
+
