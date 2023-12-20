@@ -40,7 +40,7 @@ Facilite la gestion des tournois sur ton serveur. Crée, organise et supervise d
 **Système de Ticketing**
 
 Permet de gérer efficacement les demandes des utilisateurs grâce à un système de tickets.
-
+\n
 
 **Modération Avancée**
 
